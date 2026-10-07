@@ -1,0 +1,6 @@
+# Private creator files - never commit
+case-to-script/references/voice-profile.md
+case-to-script/references/rejected-scripts.md
+
+# Build output
+*.zip
